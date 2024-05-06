@@ -1,0 +1,9 @@
+ESP32 Pin      TFT Display Pin
+-----------    ----------------
+3.3V           VCC
+GND            GND
+GPIO 5         CS (Chip Select)
+GPIO 17        RST (Reset)
+GPIO 16        DC (Data/Command)
+GPIO 18        SCLK (Serial Clock)
+GPIO 23        MOSI (Master Out Slave In)
